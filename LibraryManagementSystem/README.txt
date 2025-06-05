@@ -1,0 +1,7 @@
+Welcome!
+
+This Library Management System project makes use of the Singleton design pattern, which is to say there is a single instance of a class purposed to be used as a database, this single instance acting as a central network for other aspects of the program.
+
+When the program is begun, this single instance - which is an instance of the "Library" class - will not have any data on it. Namely, it will not contain any User or Book objects, so before being able to assess the program's functionality, you will first need to create a handful of User and Book objects.
+
+To that end, I've included a second version of the program with multiple User and Book objects in-built into the sole Library object, so you can immediately get to testing the program's functionality. This version of the program performs identically to the version with no data instantiated; you can even delete any of the pre-made data as you please. This version simply gives you a headstart by creating a handful of class objects so you don't have to spend any time doing so yourself. Of course, there's the unadulterated version of the program if you'd like to start from scratch anyway, or see how the program functions when there's no data present.
