@@ -1,1 +1,3 @@
-# CIS17B-S25-33477-Assignment2
+Welcome to my submission for Assignment 2.
+
+This is an incomplete assignment, as it does not compile or run properly. Some functionality is missing as well. However, it does feature implementation of some of the coding concepts highlighted by this lesson, such as the Singleton design pattern. I thought the work I had done would still be worth turning in on those grounds, even if it isn't finished. With that said, please keep in mind that I'm submitting this expecting only the snippets of code I've written to be evaluated, and that I do not anticipate receiving any credit for the operation of the program itself.
